@@ -24,4 +24,4 @@ git clone https://github.com/Boobalat/repos-badretdinov-rzhannikov-rezervation.g
 ## Авторы
 
 * **Bulat Badretdinov** - *GroupWork* - [Boobalat](https://github.com/Boobalat)
-* **Nikita Rzhannikov** - *GroupWork* - [https://github.com/sledolllkatv5)
+* **Nikita Rzhannikov** - *GroupWork* - [Sledollkatv5][https://github.com/sledolllkatv5)
